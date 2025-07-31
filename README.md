@@ -95,7 +95,7 @@ You can simulate each module (especially `vga_sync` and `controller_patrat`) usi
 - Randomize the vertical position of the obstacle gaps
 - Add score or time survived
 - Implement restart button after collision
-- Add sound effects or animations
+
 
 ---
 
@@ -104,6 +104,9 @@ You can simulate each module (especially `vga_sync` and `controller_patrat`) usi
 
 
 
+https://github.com/user-attachments/assets/f61ec3e4-7495-452f-accc-7eccec14bc63
 
-Uploading WhatsApp Video 2025-07-31 at 12.04.52.mp4…
+
+
+---
 
