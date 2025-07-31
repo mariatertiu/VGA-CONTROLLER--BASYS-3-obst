@@ -103,3 +103,7 @@ You can simulate each module (especially `vga_sync` and `controller_patrat`) usi
 
 
 
+
+
+Uploading WhatsApp Video 2025-07-31 at 12.04.52.mp4…
+
